@@ -1,1 +1,1 @@
-# A-B-Test-Validation-and-Decision-Analysis
+# AB-Test-Validation-and-Decision-Analysis
